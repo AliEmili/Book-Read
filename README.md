@@ -18,3 +18,6 @@ List of Books I have read.
 
 ## Patrick Lencioni
 - Five Dysfunctions of A Team
+
+## Heydon Pickering & Andy Bell
+- Every Layout (reading)
