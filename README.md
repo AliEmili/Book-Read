@@ -20,4 +20,4 @@ List of Books I have read.
 - Five Dysfunctions of A Team
 
 ## Heydon Pickering & Andy Bell
-- Every Layout (reading)
+- Every Layout
