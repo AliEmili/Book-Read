@@ -1,23 +1,25 @@
 # Book-Read
 List of Books I have read.
 
-## Robert C. Martin
-- Clean Code
-- Clean Architecture (reading)
+## Design Patterns
+  - Dive Into Design Patterns - Alexander Shvets (reading)
+  - Head First Design Patterns - Eric Freeman, Elisabeth Robson
 
-## Kyle Simpson
-- You Don't Know Js
-  - Up And Going
-  - Scope And Closures (reading)
-  
-## Alexander Shvets
-- Dive Into Design Patterns (reading)
+## Clean Code
+  - Clean Code - Robert C. Martin
 
-## Peter Thiel, Blake Masters
-- Zero To One
+## Architecture
+  - Clean Architecture - Robert C. Martin (reading)
 
-## Patrick Lencioni
-- Five Dysfunctions of A Team
+## JavaScript
+  - You Don't Know Js - Kyle Simpson
+    - Up And Going
+    - Scope And Closures (reading)
 
-## Heydon Pickering & Andy Bell
-- Every Layout
+## Soft Skills
+  - Zero To One - Peter Thiel, Blake Masters
+  - Five Dysfunctions of A Team - Patrick Lencioni
+  - Ideal Team Player - Patrick Lencioni
+
+## Css
+- Every Layout - Heydon Pickering & Andy Bell
