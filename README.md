@@ -23,3 +23,6 @@ List of Books I have read.
 
 ## Css
 - Every Layout - Heydon Pickering & Andy Bell
+
+## Test
+- End-to-end web testing with cypress and javascript - Waweru Mwaura
