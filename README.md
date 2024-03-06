@@ -28,3 +28,6 @@ List of Books I have read.
 ## Test
 - End-to-end web testing with cypress and javascript - Waweru Mwaura
 - A Frontend Web Developer's Guide to Testing - Eran Kinsbruner
+
+## Nginx
+- Nginx Essentials - Valery Kholodkov
