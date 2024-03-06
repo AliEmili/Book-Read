@@ -20,6 +20,7 @@ List of Books I have read.
   - Zero To One - Peter Thiel, Blake Masters
   - Five Dysfunctions of A Team - Patrick Lencioni
   - Ideal Team Player - Patrick Lencioni
+  - The Checklist Manifesto - Atul Gawande
 
 ## Css
 - Every Layout - Heydon Pickering & Andy Bell
