@@ -14,7 +14,8 @@ List of Books I have read.
 ## JavaScript
   - You Don't Know Js - Kyle Simpson
     - Up And Going
-    - Scope And Closures (reading)
+    - Scope And Closures
+    - This & Object Prototype(reading)
 
 ## Soft Skills
   - Zero To One - Peter Thiel, Blake Masters
