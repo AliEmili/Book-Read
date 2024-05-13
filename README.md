@@ -2,20 +2,20 @@
 List of Books I have read.
 
 ## Design Patterns
-  - Dive Into Design Patterns - Alexander Shvets (reading)
+  - Dive Into Design Patterns - Alexander Shvets (Reading)
   - Head First Design Patterns - Eric Freeman, Elisabeth Robson
 
 ## Clean Code
   - Clean Code - Robert C. Martin
 
 ## Architecture
-  - Clean Architecture - Robert C. Martin (reading)
+  - Clean Architecture - Robert C. Martin (Reading)
 
 ## JavaScript
   - You Don't Know Js - Kyle Simpson
     - Up And Going
     - Scope And Closures
-    - This & Object Prototype(reading)
+    - This & Object Prototype
 
 ## Soft Skills
   - Zero To One - Peter Thiel, Blake Masters
@@ -32,3 +32,6 @@ List of Books I have read.
 
 ## Nginx
 - Nginx Essentials - Valery Kholodkov
+
+## Software Engineering
+- Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters (Reading)
