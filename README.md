@@ -34,4 +34,4 @@ List of Books I have read.
 - Nginx Essentials - Valery Kholodkov
 
 ## Software Engineering
-- Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters (Reading)
+- Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters
