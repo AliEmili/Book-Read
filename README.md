@@ -10,6 +10,7 @@ List of Books I have read.
 
 ## Architecture
   - Clean Architecture - Robert C. Martin (Reading)
+  - Software Architecture Patterns - Mark Richards (Reading)
 
 ## JavaScript
   - You Don't Know Js - Kyle Simpson
