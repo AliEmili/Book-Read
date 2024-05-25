@@ -9,7 +9,7 @@ List of Books I have read.
   - Clean Code - Robert C. Martin
 
 ## Architecture
-  - Clean Architecture - Robert C. Martin (Reading)
+  - Clean Architecture - Robert C. Martin
   - Software Architecture Patterns - Mark Richards
 
 ## JavaScript
