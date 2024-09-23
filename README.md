@@ -36,3 +36,4 @@ List of Books I have read.
 
 ## Software Engineering
 - Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters
+- Head First Software Development - Dan Pilone, Russ Miles
