@@ -37,6 +37,7 @@ List of Books I have read.
 ## Software Engineering
 - Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters
 - Head First Software Development - Dan Pilone, Russ Miles
+- Fundamentals of Software Architecture An Engineering Approach - Mark Richards, Neal Ford
 
 ## System Design 
 - System Design Interview An Insider’s Guide-Independently published (2020) - Alex Xu
