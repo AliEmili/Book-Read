@@ -7,6 +7,7 @@ List of Books I have read.
 
 ## Clean Code
   - Clean Code - Robert C. Martin
+  - Good Code, Bad Code Think like a software engineer - Tom Long
 
 ## Architecture
   - Clean Architecture - Robert C. Martin
