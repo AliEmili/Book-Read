@@ -1,6 +1,9 @@
 # Book-Read
 List of Books I have read.
 
+# Artificial Intelligence
+Principle Of Building AI Agents - Sam Bhagwat
+
 ## Design Patterns
   - Dive Into Design Patterns - Alexander Shvets (Reading)
   - Head First Design Patterns - Eric Freeman, Elisabeth Robson
