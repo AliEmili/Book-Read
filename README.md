@@ -42,6 +42,7 @@ List of Books I have read.
 - Software Engineering At Google - Hyrum Wright, Tom Manshreck, Titus Winters
 - Head First Software Development - Dan Pilone, Russ Miles
 - Fundamentals of Software Architecture An Engineering Approach - Mark Richards, Neal Ford
+- The Design of Web APIs - Arnaud Lauret
 
 ## System Design 
 - System Design Interview An Insider’s Guide-Independently published (2020) - Alex Xu
@@ -49,3 +50,10 @@ List of Books I have read.
 
 ## Microservices
 - Bootstrapping Microservices with Docker, Kubernetes, and Terraform A project-based guide - Ashley Davis
+
+## Message Brokers
+- Understanding Message Brokers - Jakub Korab
+
+## RabbitMQ
+- RabbitMQ in Action Distributed Messaging for Everyone - Alvaro Videla, Jason J. W. Williams
+- The Optimal RabbitMQ Guide - Lovisa Johansson
